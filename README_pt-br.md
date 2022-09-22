@@ -1,7 +1,7 @@
-# Icaro's Game Code Repository
-Here I will put codes and tutorials about Unity Game Dev
+# Repositório de códigos para jogos do Ícaro
+Aqui eu vou colocar códigos e tutoriais sobre desenvolvimento de jogos com Unity.
 
-Diagram example
+Exemplo de diagrama
 ```mermaid
 graph TD;
     A-->B;
@@ -10,7 +10,7 @@ graph TD;
     C-->D;
 ```
 
-## Sumary
+## Índice
 * [Simple Atom API for Unity](pages/SimpleAtom.md)
 * 
 * 
