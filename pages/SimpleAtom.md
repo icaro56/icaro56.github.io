@@ -7,8 +7,8 @@ We can use Unity ScriptableObjects to store data in a game project, following a 
 
 ```mermaid
 graph TD;
-    MonoBehaviour A --> ScriptableObjectX;
-    MonoBehaviour B --> ScriptableObjectX;
+    MonoBehaviour_A-->ScriptableObjectX;
+    MonoBehaviour_B-->ScriptableObjectX;
 ```
 
 
