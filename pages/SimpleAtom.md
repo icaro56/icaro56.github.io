@@ -2,13 +2,13 @@
 
 ## Introduction
 
-We can use Unity ScriptableObjects to store data in a game project, following a Data Driven architecture. Thus, the MonoBehaviour scripts do not need depend on the other MonoBehaviour scripts. 
+We can use Unity ScriptableObjects (SOs) to store data in a game project, following a Data Driven architecture. Thus, a MonoBehaviour script A do not need depend on another MonoBehaviour B. They can use the data that are stored in a SO X. On the Unity Editor, all scripts that need any information stored in X, can reference this using a property and can be configured already in a prefab.
 
 
 ```mermaid
 graph TD;
-    MonoBehaviour_A-->ScriptableObjectX;
-    MonoBehaviour_B-->ScriptableObjectX;
+    MonoBehaviour_A-->ScriptableObject_X;
+    MonoBehaviour_B-->ScriptableObject_X;
 ```
 
 
