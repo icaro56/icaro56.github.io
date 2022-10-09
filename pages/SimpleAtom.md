@@ -32,6 +32,18 @@ public class IntVariable : BaseVariable<int>
 }
 ```
 
+To create a custom Variable Class, you need follow the steps
+- the custom class needs to intherit from BaseVariable and change the type between <type> to its own type.
+- the menuName must be changed
+
+So, the Custom class will be thus:
+```csharp
+[CreateAssetMenu(menuName = "SimpleAtoms/Variables/Custom")]
+public class CustomVariable : BaseVariable<Custom>
+{
+}
+```
+
 
 ## References
 - [How to make your code more Modular using Scriptable Objects in Unity](https://www.youtube.com/watch?v=6deqAk3jypo)
