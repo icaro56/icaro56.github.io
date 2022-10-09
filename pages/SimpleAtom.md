@@ -11,7 +11,26 @@ graph TD;
     MonoBehaviour_B-->ScriptableObject_X;
 ```
 
+## How to work Simple Atom (SA) lib
 
+The Simple Atom (SA) is divided in 3 types of classes: variables, events, listeners. The listeners are subdivided in two subtypes: variable listeners and event listeners.
+
+## Variables
+
+We create the main variable types used in Unity, but you can create all others types that you need. We create the types:
+- IntVariable
+- FloatVariable
+- BoolVariable
+- StringVariable
+- GameObjectVariable
+
+They inherit from BaseVariable class. Below how the IntVariable is defined:
+```csharp
+[CreateAssetMenu(menuName = "SimpleAtoms/Variables/Int")]
+public class IntVariable : BaseVariable<int>
+{
+}
+```
 
 
 ## References
