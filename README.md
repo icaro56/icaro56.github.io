@@ -3,6 +3,7 @@ Here I will put codes and tutorials about Game Dev
 
 ## Curriculum
 [portuguese cv](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_correct.pdf)
+
 [english cv](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_correct.pdf)
 
 
