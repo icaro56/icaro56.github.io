@@ -2,12 +2,11 @@
 Here I will put codes and tutorials about Game Dev
 
 ## Curriculum
-[portuguese cv](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_correct_portuguese.pdf)
+* [Portuguese CV](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_portuguese.pdf)
+* [English CV](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_english.pdf)
 
-[english cv](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_correct.pdf)
 
-
-## Sumary
+## Game Assets and Plugins
 * [Simple Atom API for Unity](https://icaro56.github.io/simple-atoms-so/)
 
 
@@ -32,7 +31,7 @@ Here I will put codes and tutorials about Game Dev
 * [MineInside]()
 
 ## Published Papers
-*[Learning how to play Bomberman with DeepReinforcement and Imitation Learning]()
-*[A Visual System for Custom Security Analysis in Cities]()
+* [Learning how to play Bomberman with DeepReinforcement and Imitation Learning]()
+* [A Visual System for Custom Security Analysis in Cities]()
 
 
