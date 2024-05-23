@@ -1,6 +1,8 @@
 # Icaro's Game Code Repository and Profile
 Here I will put codes and tutorials about Game Dev
 
+[My Game Development Game Reel](https://youtu.be/a1I1lLb1fpY)
+
 ## Curriculum
 * [Portuguese CV](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_portuguese.pdf)
 * [English CV](https://github.com/icaro56/icaro56.github.io/blob/main/icaro_CV_english.pdf)
