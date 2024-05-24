@@ -1,6 +1,7 @@
 # Icaro's Game Code Repository and Profile
 Here I will put codes and tutorials about Game Dev
 
+My Game Development Game Reel. Click on image.
 [![My Game Development Game Reel](https://img.youtube.com/vi/a1I1lLb1fpY/maxresdefault.jpg)](https://youtu.be/a1I1lLb1fpY)
 
 ## Curriculum
